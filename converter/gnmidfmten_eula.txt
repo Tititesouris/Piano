@@ -1,0 +1,112 @@
+Software End User License Agreement
+for product GNMIDFMT
+
+Günter Nagler := below called "owner" or "developer" or "licensor"
+
+Buyer :=  below called "user" or "customer"
+
+Software GNMIDFMT := below called product or software
+
+Software demo := The software used without purchased license for trial use
+
+Test version := A version of the software currently in test phase for users who help improving a future software version
+
+License := permission to use the software demo without functional restrictions
+
+Full version := the software demo used with purchased license to unlock functional restrictions
+
+Accept agreement: Before start of demo software and before first start of full version the user must read and accept this end user license agreement in order to use the software. The user may deny the agreement and then he must exit the software and delete the software from the computer.
+
+Software demo: The software may be tried for 14 days without purchasing a license. In this case the software runs in demo mode with functional restrictions. Using the software longer than 14 days requires purchasing a user license. The software must be removed from computer after 14 days trial period if the user has not purchased a license. The user may try a newer software version again for 14 days. The software demo shows at random times a dialog for reminding about registration. Some functions are restricted while using the software demo. After purchasing a user license and correct installing the license the software restrictions will be removed. It is recommended that the user tries the software demo on his computers before purchasing a license. The software demo purpose is to try the software. There is no force to purchase a license. The user must uninstall the software if no license will be purchased after trying the demo. Because the software demo is provided without costs there is no warranty for using the free demo software. This only applies to the free software demo used without a purchased license.
+ 
+Test version: Before official release of a software version the author may provide a test version to voluntary software testers. That software will be marked with TESTVERSION in caption. A test version must be seen as incomplete and it contains likely errors. 
+
+There is no warranty for Using a test version. No user is forced to use a test version. Users may use a test version for helping testing the software before next version will be officially released. Users who want help testing the software voluntary are invited to send error reports to the developer that they can be repaired before next software release. Users who are interested in purchasing a license please should instead try the current software demo because the content of a test version may still change till next software release. A test version may be used 14 days without costs. Users who already have a valid license for this product may use the test version as long as the license is valid.
+
+License duration:  The software demo without any purchased license may be used 14 days after download. A temporary time limited license may be only used till the date that is mentioned in the license file content. Same applies to license duration of using a test version.
+
+Copyright: Günter Nagler is the sole author of the relevant elements of the software. The author grants the customer after payment of the agreed fee a non-exclusive, non-transferable, non-sublicensable right to use the software with the hardware specified in the contract and the extent of the acquired number of use licenses for simultaneous use on multiple workstations. All other rights remain with the author. The involvement of the user in making the software does not transfer extra rights to the user than those which are given in this contract after purchasing a license. Any violation of the copyright of the contractor results in compensation claims for, in such a case full satisfaction to. If updates are included in the license then this agreement also  applies to existing and future updates.
+The making of copies for archival and data backup purposes the user is permitted under the condition that the software does not explicitly prohibit the licensor or a third party, and that all copyright and proprietary notices are transferred unchanged into these copies.
+
+Dekompilieren und Reverse Engineering: If for the production of interoperability of the software, the disclosure of the interfaces may be necessary, it must be commissioned by the customer with remuneration of costs at the developer. If the developer of this requirement does not comply and decompilation follows in accordance with copyright law, the results are to be used exclusively for the production of interoperability. Abuse has claims for damages.
+
+License installation: With purchase of non-tranferable user license the user gets the right to use the software and updates that are mentioned in the license text during license duration. The user license is only valid for the person with name and address cited in the license text. The license file may be installed on up to 5 own computers. 
+
+License purchase: For purchasing a license a valid email address and correct name and address of the user must be specified. 
+
+Return policy, information about the right of withdrawal:
+A. Revocation
+  
+Withdrawal
+ 
+You have the right to withdraw from this contract within fourteen days without giving a reason.
+The withdrawal period shall be fourteen days from the date of contract.
+To exercise your right, you have to
+........................................................................................................
+[Name, address, e-mail address]
+ 
+by means of a clear statement (e.g. sent by post mail, fax or email) about your decision to withdraw from this contract, inform. You can sure use the attached withdrawal form, but which is not compulsory.
+ 
+If you make use of this opportunity, we will provide you with an acknowledgment of receipt of such a withdrawal (eg. via email).
+ 
+To safeguard the withdrawal period it is sufficient that you send your communication concerning the exercise of the right before the expiration of the withdrawal period.
+  
+Effects of withdrawal
+ 
+If you withdraw from this contract, we will return all payments we receive from you, including the costs of supply (with the exception of the additional costs arising from the fact that you have chosen a different method of delivery than that offered by us), and repay immediately latest within fourteen days from the date on which the notification has been received through your cancellation of this contract with us. For this redemption, we use the same method of payment that you used in the original transaction, unless you expressly agreed otherwise; in any case you will be charged fees because of this repayment.
+
+B. withdrawal form
+ 
+(If you want to withdraw from the contract, please fill out this form and send it back)
+ 
+To
+DI Günter Nagler,
+Dr. Robert Herth Str 5/2,
+A-8120 Peggau,
+Austria
+ 
+Hereby give notice (s) I/we withdraw from my/our (*) contract entered into for the purchase of the following goods (*)
+     
+Ordered on (*) / received on (*) ...........................
+ 
+Name / consumer (s) ...........................
+ 
+Address of / consumer (s) ...........................
+   
+Signature / consumer (s) (only for message on paper)
+
+      ...........................
+   
+Date ...........................
+   
+(*) Delete where inapplicable.  
+
+
+
+Duties after withdraw from the contract: the user must remove (or deinstall) the software from his computers and the user must not request online access for a computer. Submitted license documents must be destroyed.
+Postal shipments must be returned.
+
+Duties: The user has to care for installation of a working hardware and software environment. It is recommended that the user regularly creates backups of his data and protects his computer from unauthorized network attacks by installing suitable virus protection software. The user must work with saved copies of files with the software. Overwriting the original data files is the responsibility of the user since changes can often not be undone.
+
+Data backup: It is strongly recommended to back up the original data before using the software. Some operations of this software modify the data on the user's instruction, so that a reconstruction of the original data is impossible. If the user wants to re-access the data before the change, the user must restore the data from his backup. The software can not back up data.
+
+Operating system: The software is developed only for use with operating systems Micrsoft Windows 7 and Micrsoft Windows 8. Using the software with an other operating system is not part of delivery. 
+
+
+Legal warranty: The legal warranty regulations apply. The contractor must ensure that the software performing the functions described in the accompanying documentation, provided the software is used on the operating system described in the contract.
+
+Error reports: Errors can depend on used input data. The user report should contain sufficient information and sample files, so that the problem can be reproduced. During the warranty period, the user is granted the right for free software updates to download, that eleminate known errors.
+
+The costs for support provided, diagnosis and error and troubleshooting, which are the responsibility of the customer as well as other corrections, revisions and additions are carried out by the manufacturer at a cost. This also applies to the correction of deficiencies, if software changes, additions or other interventions have been carried out by the customer or by a third party.
+
+The manufacturer is not responsible for any errors, faults or damage that are prescribed to improper operation, changed operating system components, interfaces and parameters, use of inappropriate organizational resources and data carriers, especially as required, if abnormal operating conditions (in particular deviations from the installation and storage conditions) or damage during shipment were causes for the errors.
+
+Documentation: The software does not contain a written documentation. A PDF documentation is available online for download on the homepage of the author. A PDF viewer software is required to view or print the PDF document.
+
+Place of jurisdication: Austrian laws apply. Place of jurisdication is determined to be Graz (Austria).
+
+Download: for downloading the software or documentation an internet access is required. Data transfer might cause costs by an internet provider.
+
+Author: DI Günter Nagler, Dr. Robert-Herth Str. 5, A-8120 Peggau, Austria
+
+Homepage of author: http://www.gnmidi.com

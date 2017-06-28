@@ -1,0 +1,112 @@
+Software Endbenutzerlizenzbedingungen zum Produkt GNMIDFMT
+
+Günter Nagler:= im Folgenden Urheber oder Hersteller oder Entwickler oder Lizenzgeber
+
+Käufer:= im Folgenden Benutzer oder Kunde
+
+Produkt GNMIDFMT := im Folgenden Software oder Produkt
+
+Programmdemo := Die Software ohne erworbene Lizenz zum kostenlosen Ausprobieren
+
+Testversion := Eine Version der Software im Teststadium zur freiwilligen Mithilfe beim Testen
+
+Lizenz := Benutzungsberechtigung, die Programmdemo ohne Funktionseinschränkungen zu nutzen
+
+Vollversion := Die Programmdemo mit erworbener Lizenz freigeschaltet
+
+Zustimmung: Vor dem Starten der Programmdemo und beim erstmaligen Start der Vollversion muss der Benutzer diese Endbenutzerlizenzbedingungen lesen und den Bedingungen zustimmen, um das Programm weiter benutzen zu können.
+Der Benutzer kann ablehnen und das Programm beenden und die Software entfernen.
+
+Programmdemo: Das Programm darf ohne Erwerb einer Lizenz kostenlos 14 Tage lang getestet werden. Es läuft in diesem Fall die Programmdemo mit Funktionseinschränkungen. Längere Verwendung ist nur nach Erwerb einer Benutzerlizenz gestattet, sonst muss das Programm vom Computer entfernt werden. Eine neuere Programmversion darf wieder zu denselben Bedingungen getestet werden. Die Programmdemo zeigt in zufälligen Abständen eine Erinnerung zum Erwerben einer Lizenz an. Einige Funktionen sind in der Programmdemo limitiert. Nach Erwerb einer gültigen Benutzerlizenz und korrekter Installation der Lizenzdatei fallen diese Einschränkungen weg. Es wird empfohlen, dass der Benutzer die Demo zum kostenlosen Testen der Software auf seinem Computer benutzt, bevor eine Endversion kostenpflichtig erworben wird. Die Programmdemo dient nur zum Testen des Programms, es besteht keine Verpflichtung zum Erwerb einer kostenpflichtigen Lizenz. Da es die Programmdemo unentgeltlich zur Verfügung gestellt wird, besteht hierfür keine gesetzliche Gewährleistung. Dies betrifft ausschließlich die kostenlose Programmdemo.
+
+Testversion: Vor dem offiziellen Release einer Softwareversion kann eine Testversion freiwilligen Softwaretestern zur Verfügung gestellt werden, die im Programmtitel mit dem Hinweis TESTVERSION gekennzeichnet ist. Eine Testversion ist noch nicht als fertiges Produkt zu betrachten und ist daher voraussichtlich fehlerhaft. Im Rahmen der Nutzung einer solchen wird gebeten, Fehler an den Autor zu melden, damit diese in der nächsten Programmversion behoben sind.
+Interessenten für den Erwerb einer Lizenz laden bitte stattdessen die aktuellste Programmdemo herunter, da die Inhalte der Testversion erst nach erfolgreichen Tests und möglichen Änderungen eine zukünftige Programmdemo kommen werden. Die Testversion darf ohne Lizenz kostenlos 14 Tage verwendet werden und sonst mit Gültigkeitsdauer einer bereits erworbenen Lizenz.
+
+Lizenzdauer:   Die frei verfügbare, unentgeltliche Programmdemo darf nur 14 Tage ab dem Zeitpunkt des Herunterladens benutzt werden. Eine auf eine bestimmte Dauer beschränkte vorübergehende Lizenz darf nur bis zum Zeitpunkt benutzt werden, der im Lizenztext genannt wird. Dasselbe gilt für die Benutzung einer Testversion.
+
+Urheberrecht: Günter Nagler ist alleiniger Urheber an den relevanten Elementen der Software. Der Urheber erteilt dem Kunden nach Bezahlung des vereinbarten Entgelts ein nicht ausschließliches, nicht übertragbares, nicht unterlizenzierbares Recht die Software für die im Vertrag spezifizierte Hardware und im Ausmaß der erworbenen Anzahl Lizenzen für die gleichzeitige Nutzung auf mehreren Arbeitsplätzen zu verwenden. Sämtliche sonstige Rechte verbleiben beim Urheber. Durch die Mitwirkung des Benutzers bei der Herstellung der Software werden keine Rechte über die im gegenständlichen Vertrag festgelegte Nutzung erworben. Jede Verletzung der Urheberrechte des Auftragnehmers zieht Schadenersatzansprüche nach sich, wobei in einem solchen Fall volle Genugtuung zu leisten ist. Wenn Updates in der Lizenz inkludiert sind, dann gilt diese Vereinbarung auch für vorhandene und zukünftige Updates.
+Die Anfertigung von Kopien für Archiv- und Datensicherungszwecke ist dem Benutzer unter der Bedingung gestattet, dass in der Software kein ausdrückliches Verbot des Lizenzgebers oder Dritter enthalten ist, und dass sämtliche Copyright- und Eigentumsvermerke in diese Kopien unverändert mit übertragen werden.
+
+Dekompilieren und Reverse Engineering: Sollte für die Herstellung von Interoperabilität der gegenständlichen Software die Offenlegung der Schnittstellen erforderlich sein, ist dies vom Kunden gegen Kostenvergütung beim Entwickler zu beauftragen. Kommt der Entwickler dieser Forderung nicht nach und erfolgt eine Dekompilierung gemäß Urheberrechtsgesetz, sind die Ergebnisse ausschließlich zur Herstellung der Interoperabilität zu verwenden. Missbrauch hat Schadenersatz zur Folge.
+
+Lizenzinstallation: Beim Erwerb einer nicht übertragbaren Lizenz erhält der Benutzer die Berechtigung zur Nutzung der Software und ggf. in der Lizenz genannten Updates und Upgrades während der Lizenzdauer. Eine Lizenz gilt für eine 
+im Lizenztext genannte Einzelperson. Der Benutzer darf die Lizenz auf bis zu 5 eigenen Computern zur eigenen Verwendung installieren.
+
+Lizenzerwerb: Beim Erwerb der Lizenz ist eine gültige E-Mail Adresse, der korrekte Name und die korrekte Adresse des Benutzers anzuführen. 
+
+Updates: Updates können im Lizenztext auf eine bestimmte Dauer oder bestimmte Versionen beschränkt sein.  Updates, die nicht von der Lizenz zur Nutzung eingeräumt worden sind dürfen nicht ohne Erwerb einer neuen Lizenz benutzt werden.
+
+Rückgaberecht, Informationen zur Ausübung des Widerrufsrechts: 
+A. Widerrufsbelehrung
+  
+Widerrufsrecht
+ 
+Sie haben das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen Vertrag zu widerrufen.
+Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag des Vertragsabschlusses. Bei Postversand von Waren beginnt die Widerrufsfrist ab Erhalt der Postsendung.
+Um Ihr Widerrufsrecht auszuüben, müssen Sie uns
+........................................................................................................
+[Namen, Anschrift, E-Mail-Adresse]
+ 
+mittels einer eindeutigen Erklärung (z.B. ein mit der Post versandter Brief, Telefax oder E-Mail) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren. Sie können dafür das beigefügte Muster-Widerrufsformular verwenden, das jedoch nicht vorgeschrieben ist.
+ 
+Machen Sie von dieser Möglichkeit Gebrauch, so werden wir Ihnen unverzüglich (z. B. per E-Mail) eine Bestätigung über den Eingang eines solchen Widerrufs übermitteln.
+ 
+Zur Wahrung der Widerrufsfrist reicht es aus, dass Sie die Mitteilung über die Ausübung des Widerrufsrechts vor Ablauf der Widerrufsfrist absenden.
+  
+Folgen des Widerrufs
+ 
+Wenn Sie diesen Vertrag widerrufen, haben wir Ihnen alle Zahlungen, die wir von Ihnen erhalten haben, einschließlich der Lieferkosten (mit Ausnahme der zusätzlichen Kosten, die sich daraus ergeben, dass Sie eine andere Art der Lieferung als die von uns angebotene, günstigste Standardlieferung gewählt haben), unverzüglich und spätestens binnen vierzehn Tagen ab dem Tag zurückzuzahlen, an dem die Mitteilung über Ihren Widerruf dieses Vertrags bei uns eingegangen ist. Für diese Rückzahlung verwenden wir dasselbe Zahlungsmittel, das Sie bei der ursprünglichen Transaktion eingesetzt haben, es sei denn, mit Ihnen wurde ausdrücklich etwas anderes vereinbart; in keinem Fall werden Ihnen wegen dieser Rückzahlung Entgelte berechnet.
+
+B. Widerrufsformular
+ 
+(Wenn Sie den Vertrag widerrufen wollen, dann füllen Sie bitte dieses Formular aus und senden Sie es zurück)
+ 
+An 
+DI Günter Nagler, 
+Dr. Robert-Herth Str 5/2, 
+A-8120 Peggau, 
+Österreich
+ 
+Hiermit widerrufe(n) ich/wir den von mir/uns (*) abgeschlossenen Vertrag über den Kauf der folgenden Waren (*)
+     
+Bestellt am (*)/erhalten am (*)   ...........................
+ 
+Name des/der Verbraucher(s)       ........................... 
+ 
+Anschrift des/der Verbraucher(s)  ........................... 
+   
+Unterschrift des/der Verbraucher(s) (nur bei Mitteilung auf Papier)
+
+      ...........................
+   
+Datum ...........................
+   
+(*) Unzutreffendes streichen.
+  
+
+Pflichten nach Widerruf: nach Inanspruchnahme des Widerrufsrechts muss der Kunde die Software entfernen (bzw. deinstalliern) und darf keine Onlinefreischaltung für einen Computer durchführen. Übermittelte Lizenzdateien müssen vernichtet werden. Warensendungen müssen retourniert werden.
+
+Pflichten: der Benutzer ist für die Einrichtung einer funktionsfähigen Hardware- und Softwareumgebung selbst verantwortlich. Es wird empfohlen eine regelmäßige Sicherung der Daten durchzuführen und den Computer vor unberechtigten Netzwerkangriffen mittels Virenschutzprogrammen zu schützen. Die Software darf nur mit Kopien der Originaldateien verwendet werden, Überschreiben von Originaldateien liegt in der Verantwortung des Benutzers, da oft Datenänderungen nicht rückgängig gemacht werden können.
+
+Datensicherung: Es wird dem Benutzer dringend empfohlen, die Originaldaten vor Inbetriebnahme der Software zu sichern. Einige Operationen dieser Software verändern die Daten auf Anweisung des Benutzers hin so, dass eine Rekonstruktion der Originaldaten unmöglich ist. Falls der Benutzer wieder auf die Daten vor den Änderungen zugreifen möchte, muss der Benutzer diese Daten aus seiner eigenen Sicherung wiederherstellen. Die Software kann keine Daten sichern.
+
+Betriebsystem: Die Software ist nur für die Verwendung mit den Microsoft Betriebsystemen Windows 7 und Windows 8 getestet worden. Eine Verwendung mit nicht empfohlenen Betriebsystemen ist nicht Teil des Lieferumfangs.
+
+Gewährleistung: Es gelten die gesetzlichen Gewährleistungsbestimmungen. Der Hersteller gewährleistet, dass die Software, die in der dazugehörigen Dokumentation beschriebenen Funktionen erfüllt, sofern die Software auf dem im Vertrag beschriebenen Betriebssystem genutzt wird.
+
+Fehlerberichte: Fehler können auch von benutzten Inputdateien abhängen, sodass ersucht wird genügend Informationen und Beispieldateien zu übermitteln, damit das Problem reproduziert werden kann. Während der Gewährleistungsfrist erhält der Benutzer das Recht kostenlos Programmupdates herunter zu laden, die bekannte gewordene Fehler beseitigen. 
+
+Kosten für Hilfestellung, Fehldiagnose sowie Fehler- und Störungsbeseitigung, die vom Kunden zu vertreten sind sowie sonstige Korrekturen, Änderungen und Ergänzungen werden vom Hersteller gegen Berechnung durchgeführt. Dies gilt auch für die Behebung von Mängeln, wenn Programmänderungen, Ergänzungen oder sonstige Eingriffe vom Kunden selbst oder von dritter Seite vorgenommen worden sind.
+
+Ferner übernimmt der Hersteller keine Gewähr für Fehler, Störungen oder Schäden, die auf unsachgemäße Bedienung, geänderter Betriebssystemkomponenten, Schnittstellen und Parameter, Verwendung ungeeigneter Organisationsmittel und Datenträger, soweit solche vorgeschrieben sind, anormale Betriebsbedingungen (insbesondere Abweichungen von den Installations- und Lagerbedingungen) sowie auf Transportschäden zurückzuführen sind.
+
+Dokumentation: Die Software enthält keine schriftliche Dokumentation oder Anleitung. Eine PDF Online Dokumentation wird zum Herunterladen auf der Homepage des Herstellers zur Verfügung gestellt. Es wird ein PDF Anzeigeprogramm benötigt, um die Dokumentation ansehen oder drucken zu können.
+
+Gerichtsstand: Es gilt österreichisches Recht. Als Gerichtstand wird Graz (Österreich) festgelegt.
+
+Download: zum Herunterladen der Software oder Dokumentation wird ein Internetzugang benötigt. Beim Datentransfer können Kosten von ihrem Internetprovider anfallen.
+
+Hersteller: DI Günter Nagler, Dr. Robert-Herth Str. 5/2, A-8120 Peggau, Österreich
+
+Homepage des Herstellers: http://www.gnmidi.com
+
